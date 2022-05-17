@@ -1,0 +1,15 @@
+127.0.0.1 - - [14/Apr/2022:07:33:16 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:33:22 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:33:26 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 99
+127.0.0.1 - - [14/Apr/2022:07:39:31 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:39:54 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 99
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:39:56 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:40:11 -0300] "GET /gerenciador/formNovaEmpresa.html?nome=jhonata HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:40:14 -0300] "GET /gerenciador/formNovaEmpresa.html?nome=jhonata HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:40:59 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:41:04 -0300] "GET /gerenciador/novaEmpresa?nome=Alura&CNPJ=123.46.78 HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:41:19 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 83
+127.0.0.1 - - [14/Apr/2022:07:54:38 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:54:47 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:54:49 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 83
+0:0:0:0:0:0:0:1 - - [14/Apr/2022:07:55:46 -0300] "POST /gerenciador/novaEmpresa HTTP/1.1" 200 83
