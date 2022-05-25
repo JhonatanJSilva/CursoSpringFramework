@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
 </qualifiedTypeNameHistroy>
