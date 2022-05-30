@@ -53,13 +53,11 @@ public class UnicaEntradaServlet extends HttpServlet {
 			
 		}
 		
-		String[] tipoEEndereco = nome.split(":");
-		
-		if(tipoEEndereco[0].equals("forward")) {
-			RequestDispatcher rd = request.getRequestDispatcher(tipoEEndereco[1]);
+		if(true) {
+			RequestDispatcher rd = request.getRequestDispatcher(nome);
 			rd.forward(request, response);
 		} else {
-			response.sendRedirect(tipoEEndereco[1]);
+			response.sendRedirect("entrada?acao=ListaEmpresas");
 		}
 		
 //http://localhost:8080/gerenciador/entrada?acao=ListaEmpresas

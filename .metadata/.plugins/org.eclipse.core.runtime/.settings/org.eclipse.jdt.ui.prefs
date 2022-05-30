@@ -1,3 +1,4 @@
+Refactoring.savealleditors=true
 content_assist_category_order=org.eclipse.jdt.ui.swtProposalCategory\:0\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65536\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:2\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:5\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:65541\u0000org.eclipse.jpt.jaxb.ui.jaxbCompletionProposals\:7\u0000org.eclipse.jpt.jpa.ui.jpaProposalCategory\:8\u0000org.eclipse.jdt.ui.templateProposalCategory\:9\u0000org.eclipse.jst.ws.jaxws.ui.jaxwsProposalComputer\:10\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:11\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:12\u0000
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=185,0,0
