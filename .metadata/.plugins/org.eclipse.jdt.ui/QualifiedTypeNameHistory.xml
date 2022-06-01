@@ -12,4 +12,5 @@
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.NovaEmpresa"/>
+    <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.Acao"/>
 </qualifiedTypeNameHistroy>
