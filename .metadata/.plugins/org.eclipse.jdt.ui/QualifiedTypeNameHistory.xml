@@ -13,4 +13,7 @@
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.modelo.Banco"/>
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.NovaEmpresa"/>
     <fullyQualifiedTypeName name="br.com.alura.gerenciador.acao.Acao"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
 </qualifiedTypeNameHistroy>
