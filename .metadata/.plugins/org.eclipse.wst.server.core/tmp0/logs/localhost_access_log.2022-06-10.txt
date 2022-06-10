@@ -1,0 +1,16 @@
+127.0.0.1 - - [10/Jun/2022:07:39:55 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:40:01 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:40:02 -0300] "GET /gerenciador/entrada?acao=LoginForm HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:40:11 -0300] "POST /gerenciador/entrada HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:40:11 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 200 810
+127.0.0.1 - - [10/Jun/2022:07:52:31 -0300] "GET / HTTP/1.1" 404 763
+127.0.0.1 - - [10/Jun/2022:07:53:22 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:25 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:25 -0300] "GET /gerenciador/entrada?acao=LoginForm HTTP/1.1" 200 461
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:30 -0300] "POST /gerenciador/entrada HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:30 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 200 810
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:36 -0300] "GET /gerenciador/entrada?acao=MostraEmpresa&id=1 HTTP/1.1" 200 613
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:39 -0300] "POST /gerenciador/entrada HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:39 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 200 812
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:41 -0300] "GET /gerenciador/entrada?acao=RemoveEmpresa&id=2 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2022:07:53:41 -0300] "GET /gerenciador/entrada?acao=ListaEmpresas HTTP/1.1" 200 608

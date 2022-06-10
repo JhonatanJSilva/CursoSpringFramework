@@ -15,7 +15,7 @@ import javax.servlet.http.HttpSession;
 
 
 //@WebFilter(urlPatterns="/*")
-public class AutorizacaoFilter extends HttpFilter implements Filter {
+public class ControladorFilter extends HttpFilter implements Filter {
        
 	public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain chain) throws IOException, ServletException {
 	
